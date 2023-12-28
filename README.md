@@ -8,7 +8,7 @@ Click the picture below to check out our showcase video:
 
 # Game Summary
 
-Two players, one in the past and the other in the future, must use a variety of elements in their environment, as well as the difference in time, to explore a forest together.
+Two players, one in the past and the other in the future, must use a variety of elements in their environment, as well as the difference in time, to explore a forest together..
 
 # Competition Mandate
 
